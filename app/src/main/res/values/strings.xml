@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">pb-tp7</string>
+    <string name="lblTituloApp">Calcula Salário Líquido</string>
+    <string name="lblSalarioBruto">Salário Bruto:</string>
+    <string name="lblDependentes">Dependentes:</string>
+    <string name="lblPensaoAlimenticia">Pensão Alimentícia:</string>
+    <string name="lblPlanoSaude">Plano de Saúde:</string>
+    <string name="lblOutrosDescontos">Outros Descontos:</string>
+    <string name="txtBtnCalcular">CALCULAR</string>
+    <string name="txtBtnApagar">APAGAR</string>
+    <string name="lblInfo">Resultados encontram-se abaixo</string>
+    <string name="lblSalarioLiquido">Salário Líquido:</string>
+    <string name="lblTotalDescontos">Total Descontos:</string>
+    <string name="lblPorcentagemDescontos">Porcentagem descontos:</string>
+    <string name="txtBtnVoltar">VOLTAR</string>
+</resources>
